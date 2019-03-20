@@ -1,0 +1,74 @@
+body
+{
+  background-color: #0DE860 ;
+}
+
+.parent
+{
+  display: flex;
+  justify-content: space-around;
+  margin: 2%;
+  padding: 1%;
+
+}
+
+table{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+width : 70%;
+text-align: center;
+}
+tr
+{
+  border: 1px solid black;
+  
+}
+table th,td
+{
+borrder-collapse : collapse;
+text-align: center;
+border: 1px solid red;
+
+}
+
+.child1
+{
+  background-color: #63D018  ;
+  box-shadow: 4px 4px 4px black;
+  margin: 1%;
+  border-radius: 5%;
+    text-align: center;
+  padding-top: 1%;
+
+}
+img {
+  width: 90%;
+  border-radius: 5%;
+}
+
+.child2
+{
+border: 1px solid #F1F109     ;
+padding: 2%;
+border-radius: 5%;
+
+}
+
+#child11
+{
+  width: 35%;
+}
+
+#child22
+{
+  width:65%;
+}
+h1
+{
+  text-align: center;
+}
+h2
+{
+  text-align: center;
+}

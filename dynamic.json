@@ -1,0 +1,47 @@
+ {
+ "basics":
+ {
+  "img":"images/tesla.jpg",
+  "name":"Model X",
+  "cost":"60 lakhs",
+  "milage":"335 miles",
+  "email" : "17691A0595@mits.ac.in"
+},
+"career":
+{
+  "info":"i need to get a best place to learn some technical knowledge"
+},
+"education":[
+{
+"sno":"1",
+"degree":"b-tech",
+"institute":"Mits",
+"year":"2019"
+},
+{
+  "sno":"2",
+  "degree":"intermediate",
+  "institute":"sri chaitanya",
+  "year":"2017"
+},
+{
+  "sno":"3",
+  "degree":"10th school",
+  "institute":"keshava reddy",
+  "year":"2015"
+}
+],
+"skills":
+[
+{
+  "skill":"c programming"
+},
+{
+  "skill":"java"
+},
+{
+  "skill":"python"
+}
+
+]
+}
